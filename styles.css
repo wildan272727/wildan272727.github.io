@@ -1,0 +1,15 @@
+.header {
+    background-color: aquamarine;
+    width: auto;
+    height: 200px;
+}
+
+.logo {
+    color: red;
+    margin-right: 700px;
+    font-size: 50px;
+}
+
+.header li {
+    display: inline;
+}
